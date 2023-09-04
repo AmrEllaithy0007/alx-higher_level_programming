@@ -1,3 +1,4 @@
+#!/bin/bash
 Why Python programming is awesome
 Who created Python
 Who is Guido van Rossum
